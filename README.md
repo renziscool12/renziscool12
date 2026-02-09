@@ -17,8 +17,7 @@
 -  Exploring **C# libraries** like **LINQ, Collections, etc.**  
 -  Coding primarily in **Java** and **C#**  
 - 🎮 Future goal: **Game Development**
-- ![Java](https://img.shields.io/badge/Java-Beginner-yellow)
-- ![C#](https://img.shields.io/badge/C%23-Beginner-blue)
+
 
 ---
 
