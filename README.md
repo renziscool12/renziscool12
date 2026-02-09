@@ -31,5 +31,6 @@
 ##  Skills
 
 <p align ="center">
+![Java](https://img.shields.io/badge/Java-Beginner-yellow)
 ![C#](https://img.shields.io/badge/C%23-Beginner-blue)
 </p>
