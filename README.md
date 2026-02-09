@@ -13,9 +13,9 @@
 
 ## 🌌 About Me
 
-- 💀 Currently diving into **Object-Oriented Programming (OOP)**  
-- 🌟 Exploring **C# libraries** like **LINQ, Collections, etc.**  
-- 🖤 Coding primarily in **Java** and **C#**  
+-  Currently diving into **Object-Oriented Programming (OOP)**  
+-  Exploring **C# libraries** like **LINQ, Collections, etc.**  
+-  Coding primarily in **Java** and **C#**  
 - 🎮 Future goal: **Game Development**  
 
 ---
