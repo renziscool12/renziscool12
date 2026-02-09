@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="banner.png" alt="Scene Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Learning+OOP+in+C%23...;Exploring+LINQ+and+Collections...;Building+strong+fundamentals...;Future+goal:+Game+Development+🎮" />
 </p>
 
 ---
@@ -26,6 +26,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Renziee&show_icons=true&hide_title=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renziee&layout=compact&theme=radical" height="165"/>
+</p>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
 </p>
 
 ---
