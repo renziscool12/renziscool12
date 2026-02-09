@@ -28,4 +28,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
 </p>
 
+<p align="center">
+  <img src="github.png"  width="100%" />
+</p>
+##  Skills
+
+<p align ="center">
 ![C#](https://img.shields.io/badge/C%23-Beginner-blue)
+</p>
