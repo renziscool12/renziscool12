@@ -16,7 +16,9 @@
 -  Currently diving into **Object-Oriented Programming (OOP)**  
 -  Exploring **C# libraries** like **LINQ, Collections, etc.**  
 -  Coding primarily in **Java** and **C#**  
-- 🎮 Future goal: **Game Development**  
+- 🎮 Future goal: **Game Development**
+- ![Java](https://img.shields.io/badge/Java-Beginner-yellow)
+- ![C#](https://img.shields.io/badge/C%23-Beginner-blue)
 
 ---
 
@@ -28,9 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
 </p>
 
-##  Skills
 
-<p align ="center">
+
 ![Java](https://img.shields.io/badge/Java-Beginner-yellow)
 ![C#](https://img.shields.io/badge/C%23-Beginner-blue)
-</p>
