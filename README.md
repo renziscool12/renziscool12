@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Learning+OOP+in+C%23...;Exploring+LINQ+and+Collections...;Building+strong+fundamentals...;Future+goal:+Game+Development...+;Praciting crud...🎮" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Learning%20OOP%20in%20C%23...;Exploring%20LINQ%20and%20Collections...;Building%20strong%20fundamentals...;Future%20goal:%20Game%20Development...;Practicing%20CRUD...%F0%9F%8E%AE" />
 </p>
 
 ---
