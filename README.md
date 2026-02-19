@@ -2,7 +2,7 @@
   <span style="color:#FF00FF">✨ Hi 👋, I'm Renziee ✨</span>
 </h1>
 <h3 align="center">
-  <span style="color:#00FFFF">BSIT Student | Java & C# Learner | Future Game Dev 🎮</span>
+  <span style="color:#00FFFF">BSIT Student | Java & C# Learner | Future Game Dev & Full Stack Dev🎮</span>
 </h3>
 
 <p align="center">
