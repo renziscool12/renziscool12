@@ -5,14 +5,14 @@
   <span style="color:#00FFFF">BSIT Student | Java & C# Learner | Future Game Dev & Full Stack Dev</span>
 </h3>
 
+<!-- Hakari Neon GIF -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/renziscool12/restless-gambler/main/restless%20gambler.gif" alt="Hakari Theme GIF" width="400" />
+</p>
+
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Learning%20OOP%20in%20C%23...;Exploring%20LINQ%20and%20Collections...;Building%20strong%20fundamentals...;Future%20goal:%20Game%20Development...;Practicing%20CRUD..." />
-</p>
-
-<!-- Hakari Image with neon glow -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/renziscool12/restless-gambler/main/gambling.jpg" alt="Hakari" width="400" style="border-radius:15px; box-shadow: 0 0 20px #FF00FF, 0 0 40px #FF00FF, 0 0 60px #FF00FF;" />
 </p>
 
 ---
