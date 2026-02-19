@@ -1,11 +1,7 @@
-<h1 align="center">
-  <span style="color:#FF00FF">Hi, I'm Renziee</span>
-</h1>
-<h3 align="center">
-  <span style="color:#00FFFF">BSIT Student | Java & C# Learner | Future Game Dev & Full Stack Dev</span>
-</h3>
+<h1 align="center">Hi, I'm Renziee</h1>
+<h3 align="center">BSIT Student | Java & C# Learner | Future Game Dev & Full Stack Dev</h3>
 
-<!-- Hakari Neon GIF -->
+<!-- Hakari GIF -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/renziscool12/restless-gambler/main/restless%20gambler.gif" alt="Hakari Theme GIF" width="400" />
 </p>
