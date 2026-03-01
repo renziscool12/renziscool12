@@ -17,7 +17,8 @@
 
 - Currently diving into **Object-Oriented Programming (OOP)**  
 - Exploring **C# libraries** like **LINQ, Collections, etc.**  
-- Coding primarily in **Java** and **C#**  
+- Coding primarily in **Java** and **C#**
+- Currently learning front-end 
 - Future goal: **Game Development** and **Full Stack**
 
 ---
