@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Renziee</h1>
-<h3 align="center">BSIT Student | Java & C# Learner | Future Game Dev & Full Stack Dev</h3>
+<h3 align="center">BSIT Student</h3>
 
 <!-- Hakari GIF -->
 <p align="center">
