@@ -1,11 +1,6 @@
 <h1 align="center">Hi, I'm Renziee</h1>
 <h3 align="center">BSIT Student</h3>
 
-<!-- Hakari GIF -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/renziscool12/restless-gambler/main/restless%20gambler.gif" alt="Hakari Theme GIF" width="400" />
-</p>
-
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=Learning%20new%20programming%20languages...;Adapting%20to%20different%20technologies...;Improving%20problem-solving%20skills...;Building%20strong%20programming%20fundamentals..." />
