@@ -8,7 +8,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Learning%20OOP%20in%20C%23...;Exploring%20LINQ%20and%20Collections...;Building%20strong%20fundamentals...;Future%20goal:%20Game%20Development...;Practicing%20CRUD..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=Learning%20new%20programming%20languages...;Adapting%20to%20different%20technologies...;Improving%20problem-solving%20skills...;Building%20strong%20programming%20fundamentals..." />
 </p>
 
 ---
