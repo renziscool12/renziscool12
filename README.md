@@ -13,6 +13,7 @@
 - BSIT student
 - Currently Learning MySQL
 - Interested in **CyberSecurity** and **Full Stack Developer**.
+- Learning while having fun.
 
 ---
 
