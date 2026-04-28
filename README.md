@@ -11,18 +11,18 @@
 ## About Me
 
 - BSIT student
-- Studying **Object-Oriented Programming (OOP)**
-- Coding in **Java** and **C#**
-- Interested in **Game Development** and **Full Stack Development**
+- Currently Learning MySQL
+- Interested in **CyberSecurity** and **Full Stack Developer**.
 
 ---
 
 ## Tech Stack
 
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
 </p>
 
 <p align="center">
