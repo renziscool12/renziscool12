@@ -11,7 +11,7 @@
 ## About Me
 
 - BSIT student
-- Currently Learning MySQL
+- Currently Learning HTML.
 - Interested in **CyberSecurity** and **Full Stack Developer**.
 - Learning while having fun.
 
@@ -24,9 +24,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Beginner-yellow" />
   <img src="https://img.shields.io/badge/C%23-Beginner-blue" />
+  <img src="https://img.shields.io/badge/HTML-Beginner-orange" />
 </p>
