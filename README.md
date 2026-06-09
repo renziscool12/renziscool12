@@ -10,10 +10,17 @@
 
 ## About Me
 
-- BSIT student
-- Currently Learning HTML & CSS.
-- Interested in **CyberSecurity** and **Full Stack Developer**.
-- Learning while having fun.
+- 🎓BSIT student
+- 🌱Currently Learning HTML & CSS.
+- 💻Interested in **Cybersecurity** and **Full Stack Development**.
+- 🚀Learning while having fun.
+
+ ## Current Goals
+
+- Learn JavaScript
+- Build responsive websites
+- Create personal projects
+- Learn SQL fundamentals
 
 ---
 
@@ -23,7 +30,6 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" title="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" title="CSS"/>
 </p>
