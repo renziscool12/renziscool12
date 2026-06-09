@@ -27,8 +27,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/>
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-Beginner-yellow" />
-  <img src="https://img.shields.io/badge/C%23-Beginner-blue" />
-  <img src="https://img.shields.io/badge/HTML-Beginner-orange" />
-</p>
